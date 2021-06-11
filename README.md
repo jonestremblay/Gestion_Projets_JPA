@@ -4,3 +4,5 @@ Gestionnaire de projets étudiants, utilisant Hibernate ( JPA )
 2. MySQL
 3. Hibernate ( JPA )
 4. Netbeans
+
+Version utilisant l'API JDBC disponible ici : https://github.com/jonestremblay/Gestion_Projets_JDBC
